@@ -1,13 +1,25 @@
 # 💫 About Me:
-🎮 Sam | Python Backend Padawan<br>Leveling up from syntax errors to "It works on my machine!"<br>From "Hello World" to "Hello Server" <br><br>Привет! Меня зовут Sam👨, я начинающий backend разработчик на Python 🐍. <br>Пока что мой главный суперскилл — память и упорство: <br>Если что-то не работает, буду гуглить, пересматривать туториалы, документации и пить кофе ☕️, пока не найду ответ (спасибо Stack Overflow за существование!).<br><br>🔧 Научился подключать базу данных и не удалять её случайно (пока что).<br>🔧 Понимаю, что ООП — это не про птиц и пчел<br><br>👉 В моих репозиториях пока нет "суперзвёздных" библиотек, но зато есть мой experience
+🎮 Sam | Python Backend Developer
+Leveling up from syntax errors to “It works on my machine!”
+
+Привет! Меня зовут Sam👨, я backend разработчик на Python 🐍.
 
 
 # 💻 Tech Stack:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=XaL9vA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=XaL9vA&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=XaL9vA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=XaL9vA&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=XaL9vA&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
