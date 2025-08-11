@@ -1,9 +1,5 @@
 # 💫 About Me:
 🎮 Sam | Python Backend Developer
-Leveling up from syntax errors to “It works on my machine!”
-
-Привет! Меня зовут Sam👨, я backend разработчик на Python 🐍.
-
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
